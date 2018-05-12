@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/483
     wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16236#Le-dernier-des-mohicans--Le-roman-de-Bas-de-cuir
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-07-07'
 gutenberg_type: Text
